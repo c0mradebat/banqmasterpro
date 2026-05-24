@@ -37,7 +37,17 @@ This is a ground-up rewrite of the original EJS-based BanqMaster, with everythin
 - **Personal to-do** per user, in-app notifications, profile page.
 - **Print-ready receipt** for each booking with detailed charge breakdown.
 - **PWA-ready** manifest.
+  
+## 📸 Screenshots
 
+### Dashboard
+![Dashboard](./screenshots/ss1.png)
+
+### Reports
+![Booking Management](./screenshots/ss2.png)
+
+### Staff
+![Calendar View](./screenshots/ss3.png)
 ## 🧱 Stack
 
 | Layer    | Tech                                              |
